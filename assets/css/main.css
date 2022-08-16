@@ -1627,7 +1627,7 @@
         border-radius: 0.35em;
         border: solid 2px transparent;
         color: inherit;
-        display: block;
+        display: inline-block;
         outline: 0;
         padding: 0 0.75em;
         text-decoration: none;
